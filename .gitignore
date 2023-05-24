@@ -1,0 +1,2 @@
+# Ignore krita backup files since I am versioning anyway.
+*.kra~
